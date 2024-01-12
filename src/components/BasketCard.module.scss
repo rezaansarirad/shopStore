@@ -1,0 +1,36 @@
+.card{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    border: 2px dashed #e2e2e2;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    img{
+        width: 50px;
+        height: 50px;
+    }
+    .action{
+        display: flex;
+        align-items: center;
+        span{
+            width: 20px;
+            text-align: center;
+            margin: 0 2px;
+        }
+        button{
+            background-color: #fe5d42;
+            border: none;
+            color: #fff;
+            font-size: 1.3rem;
+            width: 25px;
+            height: 25px;
+            line-height: 25px;
+            cursor: pointer;
+            border-radius: 8px;
+        }
+    }
+
+
+
+}
