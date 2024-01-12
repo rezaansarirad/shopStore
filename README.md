@@ -1,8 +1,50 @@
-# React + Vite
+# GitProject
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React.js project with SCSS styling, utilizing `useReducer` and `Context` for state management.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **State Management**: Leveraging `useReducer` and `Context` for efficient state management.
+- **Routing**: Utilizing `react-router-dom` version 6 for seamless navigation within the application.
+- **API Integration**: Using Axios and React Query for efficient and effective API data fetching.
+
+## Technologies Used
+
+- **React.js**: A JavaScript library for building user interfaces.
+- **SCSS**: A popular CSS preprocessor to enhance styling capabilities.
+- **React Router DOM (v6)**: The standard library for navigation in React applications.
+- **Axios**: A promise-based HTTP client for the browser and Node.js.
+- **React Query**: A React library for fetching, caching, and updating asynchronous data.
+
+## Getting Started
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/gitproject.git
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Run the project:
+
+    ```bash
+    npm start
+    ```
+
+## Screenshots
+
+![Screenshot 1](./public/1.png)
+<!-- Add more screenshots if needed -->
+
+## Contributing
+
+Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and suggestions are highly appreciated.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
