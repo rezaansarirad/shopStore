@@ -1,4 +1,4 @@
-# GitProject
+# ShopStore
 
 A React.js project with SCSS styling, utilizing `useReducer` and `Context` for state management.
 
@@ -21,7 +21,7 @@ A React.js project with SCSS styling, utilizing `useReducer` and `Context` for s
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/gitproject.git
+    git clone https://github.com/rezaansarirad/shopStore.git
     ```
 
 2. Install dependencies:
@@ -39,6 +39,8 @@ A React.js project with SCSS styling, utilizing `useReducer` and `Context` for s
 ## Screenshots
 
 ![Screenshot 1](./public/1.png)
+![Screenshot 2](./public/sticker.gif)
+
 <!-- Add more screenshots if needed -->
 
 ## Contributing
