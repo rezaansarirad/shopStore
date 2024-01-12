@@ -1,7 +1,7 @@
 # ShopStore
 
 A React.js project with SCSS styling, utilizing `useReducer` and `Context` for state management.
-
+![Screenshot 2](./public/sticker.gif)
 ## Features
 
 - **State Management**: Leveraging `useReducer` and `Context` for efficient state management.
@@ -39,7 +39,7 @@ A React.js project with SCSS styling, utilizing `useReducer` and `Context` for s
 ## Screenshots
 
 ![Screenshot 1](./public/1.png)
-![Screenshot 2](./public/sticker.gif)
+
 
 <!-- Add more screenshots if needed -->
 
@@ -47,6 +47,4 @@ A React.js project with SCSS styling, utilizing `useReducer` and `Context` for s
 
 Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and suggestions are highly appreciated.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Hope you enjoy.
