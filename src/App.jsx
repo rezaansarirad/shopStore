@@ -6,7 +6,7 @@ import ProductsPage from "./pages/ProductsPage";
 import DetailsPage from "./pages/DetailsPage";
 import PageNotFound from "./pages/404";
 import CheckOutPage from "./pages/CheckOutPage";
-import ProductProvider from "./context/productContext";
+import ProductProvider from "./context/ProductProvider";
 import CardProvider from "./context/CardContext";
 function App() {
   return (

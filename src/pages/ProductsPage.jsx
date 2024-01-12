@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 import { useSearchParams } from "react-router-dom";
 
-import { useProducts } from "../context/productContext";
+import { useProducts } from "../context/ProductProvider";
 
 import Card from "../components/Card";
 import Loader from "../components/Loader";

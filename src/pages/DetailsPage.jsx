@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { useProductDetails } from "../context/productContext";
+import { useProductDetails } from "../context/ProductProvider";
 import Loader from "../components/Loader";
 
 import { SiOpenproject } from "react-icons/si";
